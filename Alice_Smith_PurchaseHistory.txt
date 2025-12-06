@@ -1,0 +1,4 @@
+Purchase History for: Alice Smith
+-------------------------------------------
+Item Name | Quantity | Total Spent
+-------------------------------------------

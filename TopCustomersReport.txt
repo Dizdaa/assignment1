@@ -1,0 +1,6 @@
+Top Customers by Total Spent
+--------------------------------
+Rank | Customer Name | Total Spent
+1. Alice Smith - spent $839.97
+2. Charlie Williams - spent $509.97998
+3. Bob Johnson - spent $9.9
